@@ -1,2 +1,3 @@
 # GalaxyPAY
 GalaxyPAY
+GPAY
